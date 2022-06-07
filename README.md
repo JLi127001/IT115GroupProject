@@ -8,3 +8,4 @@ C# Page - Jerry
 Python - James
 Java - Stephen
 JavaScript - Shannon
+SQL - Asher
